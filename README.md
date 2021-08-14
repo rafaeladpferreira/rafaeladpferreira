@@ -1,6 +1,9 @@
 ### Bem vindo ao meu perfil! 👋
 
 - 🌱 Estudando HTML, CSS, JavaScript
+- 🌱 Participante da 3ª Edição da Aceleração do Luiza Code em Node.js
+
+
 
  <div>
   <a href="https://github.com/rafaeladpferreira">
